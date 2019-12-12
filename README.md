@@ -11,6 +11,8 @@ The course is split into 5 different labs:
   <li>How to get the perspectives of sources mentioned in the text on what they claims, state, belef, feel.
 </ol>
 
+There are three assignments where the students need to build up their own data sets of texts from two different sources, process these texts, get the content and get the perspectives. Besides creating the code they need to critically assess the output and the systems that produced the output. They should also assess the difference across the two different sources used to obtain the data.
+
 These notebooks were created by Piek Vossen, Vrije Universiteit Amsterdam. (c)
 
 
